@@ -1,16 +1,18 @@
-### Hi there 👋
+# Muhammad Rifki Ardiansah
 
-<!--
-**rifkidocs/rifkidocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Muhammad Rifki Ardiansah, a Computer Science student at Universitas Islam Lamongan. I have a passion for front-end web development and expertise in technologies such as Tailwind CSS, React JS, Bootstrap, Firebase, and MySQL. Additionally, I have a good understanding of Java and Python programming fundamentals. I'm 20 years old and I'm also a part of the web development platform [WebifyAja](https://www.webifyaja.com).
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end development: HTML, CSS, JavaScript
+- Frameworks: Tailwind CSS, React JS, Bootstrap
+- Databases: Firebase, MySQL
+- Programming: Java (Basic), Python (Basic)
+
+## Education
+
+- Bachelor's Degree in Computer Science, Universitas Islam Lamongan
+
+- ## Contact
+  
+- Email: rifkiars@gmail.com
