@@ -17,12 +17,6 @@ Hello, I'm Muhammad Rifki Ardiansah, a Computer Science student at Universitas I
   
 - Email: rifkiars@gmail.com
 
-- **Skills Bar**
-  - Front-end development    : ██████████████████░░░░░░░░░░
-  - Frameworks               : ████████████████░░░░░░░░░░░░
-  - Databases                : █████████████░░░░░░░░░░░░░░░
-  - Programming              : ███████████░░░░░░░░░░░░░░░░░
-
-- **Contact Icons**
+- **Contact**
   - Email: [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rifkiars@gmail.com)
   - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/rifkiars/)
