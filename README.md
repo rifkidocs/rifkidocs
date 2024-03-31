@@ -29,5 +29,6 @@ Feel free to reach out to me via email or LinkedIn:
 - Email: rifkiars@gmail.com 📧
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifkiars/) 💼
 
-## GitHub Stats 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkidocs&layout=compact&theme=radical)
+## Top Languages Used 🌟
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkidocs&layout=compact&theme=midnight-purple)
+
