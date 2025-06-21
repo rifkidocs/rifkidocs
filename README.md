@@ -1,6 +1,6 @@
 # Muhammad Rifki Ardiansah ✨
 
-Hello, I'm Muhammad Rifki Ardiansah, a Computer Science student at Universitas Islam Lamongan. I have a passion for full-stack web development. I'm 21 years old and I'm also a part of the web development platform [WebifyAja](https://www.webifyaja.com).
+Hello, I'm Muhammad Rifki Ardiansah, a Computer Science student at Universitas Islam Lamongan. I have a passion for full-stack web development. I'm 22 years old and I'm also a part of the web development platform [WebifyAja](https://www.webifyaja.com).
 
 ## Skills 🚀
 
