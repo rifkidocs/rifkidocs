@@ -1,10 +1,12 @@
-# Muhammad Rifki Ardiansah ✨
+# Hi, I'm Muhammad Rifki Ardiansah 👋
 
-Hello, my name is Muhammad Rifki Ardiansah. I graduated with a Bachelor's degree in Informatics Engineering from Universitas Islam Lamongan, and I have about two and a half years of experience as a full-stack developer. I have worked on projects for campus organizations, companies, and government institutions.
+I'm a Full-Stack Web Developer from Indonesia.
 
-## Contact 📞
+I graduated with a Bachelor's degree in Informatics Engineering from Universitas Islam Lamongan. I have 3 years of experience building web applications for companies, government institutions, and university organizations.
 
-Feel free to reach out to me via email or LinkedIn:
+I enjoy building web applications, learning new technologies, and solving real-world problems through software.
 
-- Email: rifkiars@gmail.com 📧
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifkiars/) 💼
+## 📫 Contact
+
+- 📧 rifkiars@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rifkiars
